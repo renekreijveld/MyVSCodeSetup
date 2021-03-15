@@ -2,7 +2,8 @@
 
 These are my settings for Visual Studio Code:
 
-```{
+```
+{
 	"bracket-pair-colorizer-2.forceUniqueOpeningColor": true,
 	"editor.cursorStyle": "block",
 	"editor.fontFamily": "'Fira Code'",
@@ -100,4 +101,5 @@ These are my settings for Visual Studio Code:
 	"[xml]": {
 		"editor.defaultFormatter": "dotjoshjohnson.xml"
 	},
-}```
+}
+```
