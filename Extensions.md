@@ -2,7 +2,7 @@
 
 These are the Extensions I use with Visual Studio Code:
 
-- Bracket Pair Colorizer 2 ```coenraads.bracket-pair-colorizer-2```<br>https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
+- <a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2" target="_blank">Bracket Pair Colorizer 2</a> ```coenraads.bracket-pair-colorizer-2```
 - Dash ```deerawan.vscode-dash```
 - Diff ```fabiospampinato.vscode-diff```
 - Helium Icon Theme ```helgardrichard.helium-icon-theme```
