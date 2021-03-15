@@ -1,8 +1,9 @@
 # Extensions
 
-These are the Extensions I use with Visual Studio Code
+These are the Extensions I use with Visual Studio Code:
 
 - Bracket Pair Colorizer 2 ```coenraads.bracket-pair-colorizer-2```
+  https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
 - Dash ```deerawan.vscode-dash```
 - Diff ```fabiospampinato.vscode-diff```
 - Helium Icon Theme ```helgardrichard.helium-icon-theme```
