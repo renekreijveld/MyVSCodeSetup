@@ -89,7 +89,7 @@ These are my settings for Visual Studio Code:
 	"[html]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
-	"[js]": {
+	"[javascript]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"[scss]": {
@@ -99,7 +99,7 @@ These are my settings for Visual Studio Code:
 		"editor.defaultFormatter": "kokororin.vscode-phpfmt"
 	},
 	"[xml]": {
-		"editor.defaultFormatter": "dotjoshjohnson.xml"
+		"editor.defaultFormatter": "DotJoshJohnson.xml"
 	},
 }
 ```
