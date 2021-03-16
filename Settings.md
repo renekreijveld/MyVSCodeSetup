@@ -12,7 +12,7 @@ These are my settings for Visual Studio Code:
 	"editor.cursorWidth": 5,
 	"editor.fontFamily": "'Fira Code'",
 	"editor.fontLigatures": true,
-	"editor.fontSize": 17,
+	"editor.fontSize": 14,
 	"editor.fontWeight": "400",
 	"editor.formatOnSave": false,
 	"editor.insertSpaces": false,
