@@ -26,6 +26,8 @@ These are my settings for Visual Studio Code:
 	"html.format.indentInnerHtml": true,
 	// Intelephense
 	"intelephense.completion.fullyQualifyGlobalConstantsAndFunctions": true,
+	"intelephense.format.braces": "allman",
+	"intelephense.environment.phpVersion": "7.4.16",
 	"intelephense.files.associations": [
 		"*.php",
 		"*.phtml"
@@ -62,7 +64,7 @@ These are my settings for Visual Studio Code:
 	"phpfmt.psr2": false,
 	// Prettier - Code formatter
 	"prettier.tabWidth": 4,
-	"prettier.useTabs": true,
+	"prettier.useTabs": false,
 	// Workbech color settings
 	"workbench.colorCustomizations": {
 		"activityBarBadge.background": "#616161",
@@ -102,11 +104,14 @@ These are my settings for Visual Studio Code:
 	"[javascript]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
-	"[scss]": {
+	"[less]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"[php]": {
 		"editor.defaultFormatter": "kokororin.vscode-phpfmt"
+	},
+	"[scss]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"[xml]": {
 		"editor.defaultFormatter": "DotJoshJohnson.xml"
