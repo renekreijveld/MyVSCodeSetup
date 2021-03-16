@@ -4,7 +4,9 @@ These are my settings for Visual Studio Code:
 
 ```
 {
+	// Bracket Pair Colorizer
 	"bracket-pair-colorizer-2.forceUniqueOpeningColor": true,
+	// General editor settings
 	"editor.cursorStyle": "block",
 	"editor.fontFamily": "'Fira Code'",
 	"editor.fontLigatures": true,
@@ -18,8 +20,11 @@ These are my settings for Visual Studio Code:
 	"explorer.openEditors.visible": 10,
 	"extensions.ignoreRecommendations": true,
 	"files.trimTrailingWhitespace": true,
+	// Git show how many changes local repo is behind the remote
 	"git.autofetch": true,
+	// Indent <head> and <body> inside <html>
 	"html.format.indentInnerHtml": true,
+	// Intelephense
 	"intelephense.completion.fullyQualifyGlobalConstantsAndFunctions": true,
 	"intelephense.files.associations": [
 		"*.php",
@@ -33,6 +38,7 @@ These are my settings for Visual Studio Code:
 			"@throws ${1:$SYMBOL_TYPE} $2"
 		]
 	},
+	// phpfmt - PHP Code Formatter
 	"phpfmt.detect_indent": true,
 	"phpfmt.exclude": [
 		"ReindentComments",
@@ -54,8 +60,10 @@ These are my settings for Visual Studio Code:
 	// Add your path to your php executable below:
 	"phpfmt.php_bin": "/usr/local/bin/php",
 	"phpfmt.psr2": false,
+	// Prettier - Code formatter
 	"prettier.tabWidth": 4,
 	"prettier.useTabs": true,
+	// Workbech color settings
 	"workbench.colorCustomizations": {
 		"activityBarBadge.background": "#616161",
 		"list.activeSelectionForeground": "#616161",
@@ -77,12 +85,14 @@ These are my settings for Visual Studio Code:
 		"menu.selectionForeground": "#616161",
 		"menubar.selectionForeground": "#616161"
 	},
-	"workbench.colorTheme": "Visual Studio Dark",
+	"workbench.colorTheme": "Cobalt2",
 	"workbench.editor.closeOnFileDelete": true,
 	"workbench.editor.labelFormat": "long",
 	"workbench.iconTheme": "helium-icon-theme",
 	"workbench.startupEditor": "newUntitledFile",
+	// Zoom level
 	"window.zoomLevel": 1,
+	// Code formatters
 	"[css]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
