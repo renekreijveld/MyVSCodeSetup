@@ -3,6 +3,7 @@
 These are the Extensions I use with Visual Studio Code:
 
 - <a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2" target="_blank">Bracket Pair Colorizer 2</a> ```coenraads.bracket-pair-colorizer-2```
+- <a href="https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2" target="_blank">Cobalt2 Theme Official</a> ```wesbos.theme-cobalt2```
 - <a href="https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash" target="_blank">Dash</a> ```deerawan.vscode-dash```
 - <a href="https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-diff" target="_blank">Diff</a> ```fabiospampinato.vscode-diff```
 - <a href="https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme" target="_blank">Helium Icon Theme</a> ```helgardrichard.helium-icon-theme```
