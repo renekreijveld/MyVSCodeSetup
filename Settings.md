@@ -48,7 +48,7 @@ These are my settings for Visual Studio Code:
 		]
 	},
 	// phpfmt - PHP Code Formatter
-	"phpfmt.detect_indent": true,
+	"phpfmt.detect_indent": false,
 	"phpfmt.exclude": [
 		"ReindentComments",
 		"StripNewlineWithinClassBody"
